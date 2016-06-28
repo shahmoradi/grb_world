@@ -1,4 +1,4 @@
-Last updated by: Amir Shahmoradi, Thursday 1:14 PM, April 23 2015, Institute for Fusion Studies, The University of Texas at Austin
+Last updated: Amir Shahmoradi, Thursday 1:14 PM, April 23 2015, Institute for Fusion Studies, The University of Texas at Austin
 
 description of GRB_WORLD_MODEL repository content:
 
