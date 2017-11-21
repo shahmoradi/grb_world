@@ -1,4 +1,4 @@
-Last updated: Amir Shahmoradi, Thursday 1:14 PM, April 23 2015, Institute for Fusion Studies, The University of Texas at Austin
+**Last updated:** Thursday 1:14 PM, April 23 2015, by Amir Shahmoradi, Institute for Fusion Studies, The University of Texas at Austin
 
 description of GRB_WORLD_MODEL repository content:
 
@@ -8,4 +8,16 @@ This repository contains data, codes, and the results for the analysis and model
 
 -- Amir Shahmoradi, 2013, Stanford eConf Proceedings, C1304143, paper 14, arXiv:1308.1097, " Gamma-Ray Bursts: Energetics and Prompt Correlations " (http://arxiv.org/abs/1308.1097)
 
-Any questions or request for help can be addressed to Amir Shahmoradi: amir@physics.utexas.edu
+For questions and troubleshooting, please contact:
+
+Amir Shahmoradi
+Institute for Computational Engineering and Sciences (ICES)
+Department of Aerospace Engineering and Engineering Mechanics
+The University of Texas at Austin
+201 E 24th Street, Stop C0200 | POB 6.328
+Austin, TX 78712-1229
+Phone: 512-232-7777
+Email: amir@ices.utexas.edu
+Email: amir@physics.utexas.edu
+Email: a.shahmoradi@gmail.edu
+Web: www.shahmoradi.org
