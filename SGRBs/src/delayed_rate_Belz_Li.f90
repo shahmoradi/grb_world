@@ -1,9 +1,6 @@
+! Amir Shahmoradi, Wednesday 5:43 PM, December 25, 2013, IFS, UT Austin
 function delayed_rate_Belz_Li(z)
-	
-	! Amir Shahmoradi, Wednesday 5:43 PM, December 25, 2013, IFS, UT Austin
-	
-    ! get the comoving SGRB rate according to a polynomial approximation to the convolution of SFR of Li (2008) with the log-normal delay distribution of Belzynsky (2010).
-	
+
 	implicit none
 	real*8, intent(in) :: z
 	real*8 :: delayed_rate_Belz_Li

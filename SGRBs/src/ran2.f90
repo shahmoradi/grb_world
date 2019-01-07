@@ -1,4 +1,3 @@
-!  gives good random numbers up to ~2*10**18 deviates.
 FUNCTION ran2(idum)
   INTEGER idum,IM1,IM2,IMM1,IA1,IA2,IQ1,IQ2,IR1,IR2,NTAB,NDIV
   DOUBLE PRECISION :: ran2,AM,EPS,RNMX

@@ -1,5 +1,4 @@
 ! Last modified by: Amir Shahmoradi, Friday 7:47 PM, Dec 13, 2013, IFS/ICMB, UT Austin
-
 SUBROUTINE qrombPbol(func,a,b,ss)
 
       INTEGER JMAX,JMAXP,K,KM
