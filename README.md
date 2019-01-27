@@ -1,6 +1,6 @@
 **Citation:** If you use any of the algorithms, codes or the results presented in this repository, we kindly ask you to cite the following two papers:  
 
-1. [**A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts**](https://www.shahmoradi.org/pubs/Shahmoradi_2013a.pdf){:target="_blank"}  
+1. [**A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts**](https://www.shahmoradi.org/pubs/Shahmoradi_2013a.pdf)  
 @Article{shahmoradi2013multivariate,  
   author    = {Shahmoradi, Amir},  
   title     = {A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts},  
@@ -11,7 +11,7 @@
   pages     = {111},  
   publisher = {IOP Publishing},  
 }  
-2. [**Short versus long gamma-ray bursts: a comprehensive study of energetics and prompt gamma-ray correlations**](https://www.shahmoradi.org/pubs/Shahmoradi_2015a.pdf){:target="_blank"}  
+2. [**Short versus long gamma-ray bursts: a comprehensive study of energetics and prompt gamma-ray correlations**](https://www.shahmoradi.org/pubs/Shahmoradi_2015a.pdf)  
 @Article{shahmoradi2015short,  
   author    = {Shahmoradi, Amir and Nemiroff, Robert J},  
   title     = {Short versus long gamma-ray bursts: a comprehensive study of energetics and prompt gamma-ray correlations},  
@@ -25,7 +25,7 @@
 
 or additionally, the ASCL code repositories:  
 
-3. [**LgrbWorldModel: Long-duration Gamma-Ray Burst World Model**](http://adsabs.harvard.edu/abs/2017ascl.soft12016S){:target="_blank"}  
+3. [**LgrbWorldModel: Long-duration Gamma-Ray Burst World Model**](http://adsabs.harvard.edu/abs/2017ascl.soft12016S)  
 @misc{shahmoradi2017lgrbworldmodel,  
   author = {{Shahmoradi}, A. and {Nemiroff}, R.~J.},  
   title = "{LgrbWorldModel: Long-duration Gamma-Ray Burst World Model}",  
@@ -38,7 +38,7 @@ or additionally, the ASCL code repositories:
   adsurl = {http://adsabs.harvard.edu/abs/2017ascl.soft12016S},  
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}  
 }  
-4. [**SgrbWorldModel: Short-duration Gamma-Ray Burst World Model**](http://adsabs.harvard.edu/abs/2017ascl.soft12015S){:target="_blank"}  
+4. [**SgrbWorldModel: Short-duration Gamma-Ray Burst World Model**](http://adsabs.harvard.edu/abs/2017ascl.soft12015S)  
 @misc{shahmoradi2017sgrbworldmodel,  
   author = {{Shahmoradi}, A. and {Nemiroff}, R.~J.},  
   title = "{SgrbWorldModel: Short-duration Gamma-Ray Burst World Model}",  
