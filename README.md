@@ -1,56 +1,60 @@
 **Citation:** If you use any of the algorithms, codes or the results presented in this repository, we kindly ask you to cite the following two papers:  
 
 1. [**A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts**](https://www.shahmoradi.org/pubs/Shahmoradi_2013a.pdf)  
-@Article{shahmoradi2013multivariate,  
-  author    = {Shahmoradi, Amir},  
-  title     = {A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts},  
-  journal   = {The Astrophysical Journal},  
-  year      = {2013},  
-  volume    = {766},  
-  number    = {2},  
-  pages     = {111},  
-  publisher = {IOP Publishing},  
-}  
+BibTeX Entry:  
+    @Article{shahmoradi2013multivariate,  
+      author    = {Shahmoradi, Amir},  
+      title     = {A Multivariate Fit Luminosity Function and World Model for Long Gamma-Ray Bursts},  
+      journal   = {The Astrophysical Journal},  
+      year      = {2013},  
+      volume    = {766},  
+      number    = {2},  
+      pages     = {111},  
+      publisher = {IOP Publishing},  
+    }  
 2. [**Short versus long gamma-ray bursts: a comprehensive study of energetics and prompt gamma-ray correlations**](https://www.shahmoradi.org/pubs/Shahmoradi_2015a.pdf)  
-@Article{shahmoradi2015short,  
-  author    = {Shahmoradi, Amir and Nemiroff, Robert J},  
-  title     = {Short versus long gamma-ray bursts: a comprehensive study of energetics and prompt gamma-ray correlations},  
-  journal   = {Monthly Notices of the Royal Astronomical Society},  
-  year      = {2015},  
-  volume    = {451},  
-  number    = {1},  
-  pages     = {126--143},  
-  publisher = {Oxford University Press},  
-}  
+BibTeX Entry:  
+    @Article{shahmoradi2015short,  
+      author    = {Shahmoradi, Amir and Nemiroff, Robert J},  
+      title     = {Short versus long gamma-ray bursts: a comprehensive study of energetics and prompt gamma-ray correlations},  
+      journal   = {Monthly Notices of the Royal Astronomical Society},  
+      year      = {2015},  
+      volume    = {451},  
+      number    = {1},  
+      pages     = {126--143},  
+      publisher = {Oxford University Press},  
+    }  
 
 or additionally, the ASCL code repositories:  
 
 3. [**LgrbWorldModel: Long-duration Gamma-Ray Burst World Model**](http://adsabs.harvard.edu/abs/2017ascl.soft12016S)  
-@misc{shahmoradi2017lgrbworldmodel,  
-  author = {{Shahmoradi}, A. and {Nemiroff}, R.~J.},  
-  title = "{LgrbWorldModel: Long-duration Gamma-Ray Burst World Model}",  
-  keywords = {Software },  
-  howpublished = {Astrophysics Source Code Library},  
-  year = 2017,  
-  month = dec,  
-  archivePrefix = "ascl",  
-  eprint = {1712.016},  
-  adsurl = {http://adsabs.harvard.edu/abs/2017ascl.soft12016S},  
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}  
-}  
+BibTeX Entry:  
+    @misc{shahmoradi2017lgrbworldmodel,  
+      author = {{Shahmoradi}, A. and {Nemiroff}, R.~J.},  
+      title = "{LgrbWorldModel: Long-duration Gamma-Ray Burst World Model}",  
+      keywords = {Software },  
+      howpublished = {Astrophysics Source Code Library},  
+      year = 2017,  
+      month = dec,  
+      archivePrefix = "ascl",  
+      eprint = {1712.016},  
+      adsurl = {http://adsabs.harvard.edu/abs/2017ascl.soft12016S},  
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}  
+    }  
 4. [**SgrbWorldModel: Short-duration Gamma-Ray Burst World Model**](http://adsabs.harvard.edu/abs/2017ascl.soft12015S)  
-@misc{shahmoradi2017sgrbworldmodel,  
-  author = {{Shahmoradi}, A. and {Nemiroff}, R.~J.},  
-  title = "{SgrbWorldModel: Short-duration Gamma-Ray Burst World Model}",  
-  keywords = {Software },  
-  howpublished = {Astrophysics Source Code Library},  
-  year = 2017,  
-  month = dec,  
-  archivePrefix = "ascl",  
-  eprint = {1712.015},  
-  adsurl = {http://adsabs.harvard.edu/abs/2017ascl.soft12015S},  
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}  
-}   
+BibTeX Entry:  
+    @misc{shahmoradi2017sgrbworldmodel,  
+      author = {{Shahmoradi}, A. and {Nemiroff}, R.~J.},  
+      title = "{SgrbWorldModel: Short-duration Gamma-Ray Burst World Model}",  
+      keywords = {Software },  
+      howpublished = {Astrophysics Source Code Library},  
+      year = 2017,  
+      month = dec,  
+      archivePrefix = "ascl",  
+      eprint = {1712.015},  
+      adsurl = {http://adsabs.harvard.edu/abs/2017ascl.soft12015S},  
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}  
+    }   
 
 **Last updated:** Thursday 1:14 PM, April 23 2015, by Amir Shahmoradi, Institute for Fusion Studies, The University of Texas at Austin
 
