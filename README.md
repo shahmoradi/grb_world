@@ -85,5 +85,5 @@ Austin, TX 78712-1229
 Phone: 512-232-7777  
 Email: amir@ices.utexas.edu  
 Email: amir@physics.utexas.edu  
-Email: a.shahmoradi@gmail.edu  
+Email: a.shahmoradi@gmail.com  
 Web: www.shahmoradi.org  
